@@ -1,0 +1,12 @@
+# Node
+node_modules
+.next
+dist
+
+# Go
+bin
+*.exe
+*.out
+
+# Docker volume
+db_data
